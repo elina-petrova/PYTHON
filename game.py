@@ -4,6 +4,21 @@ from gameFunctions import winlose
 from gameFunctions import comparison
 from gameFunctions import config
 
+print(" ___             ___      _______________")
+print("|   |           |   |    |____       ____|")
+print("|   |           |   |         |     |")    
+print("|   |           |   |         |     |")
+print("|   |           |   |         |     |")
+print("|   |           |   |         |     |")
+print("|    -----------    |         |     | ")
+print("|    -----------    |         |     |")
+print("|   |           |   |         |     |")
+print("|   |           |   |         |     |")
+print("|   |           |   |         |     | ")
+print("|   |           |   |     ____|     |____")
+print("|___|           |___|    |_______________| ")
+
+
 
 
 # choices is an array => an array is a container that can hold multiple values
